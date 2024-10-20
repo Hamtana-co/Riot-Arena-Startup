@@ -17,8 +17,6 @@ Gaming Platform Startup Doc
     <a href="https://neorax.com/">Neorax</a>
     <br />
     <a href="https://gameniaz.ir/">Game Niaz</a>
-    <br />
-    <a href="https://g4a4.com/">G4A4</a>
 </p>
 
 ### ضعف های رقبا
